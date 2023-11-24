@@ -45,4 +45,9 @@ print('Hello' + ' ' + 'world!')
 
 
 
+# Band name Generator
+# print("Welcome to Band name Generator.")
+# city_name =input("What's the name of the city you grow in? \n")
+# pet_name = input("What's your pet name?\n")
+# print("Your Band name could be "+ city_name + ' ' + pet_name)
 
